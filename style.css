@@ -1,0 +1,72 @@
+/* Define a fonte e a aparência geral do site */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo do cabeçalho com imagem de fundo */
+.hero {
+    background-image: url('img/destiny2-hero.jpg');
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+/* Estilo para os títulos */
+h1, h2 {
+    font-weight: bold;
+}
+
+/* Estilo dos cards (caixas com dicas) */
+.card {
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+/* Efeito de hover nos cards (aumenta de tamanho ao passar o mouse) */
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #222;
+    color: white;
+    padding: 20px 0;
+}
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo do cabeçalho com imagem de fundo */
+.hero {
+    background-image: url('img/destiny2-hero.jpg');
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+/* Estilo para os títulos */
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+/* Estilo dos cards (caixas com dicas) */
+.card {
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+/* Efeito de hover nos cards (aumenta de tamanho ao passar o mouse) */
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #222;
+    color: white;
+    padding: 20px 0;
+}
+
